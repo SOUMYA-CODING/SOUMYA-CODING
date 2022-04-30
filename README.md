@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help for **Backend Development**
 
-- 👨‍💻 All of my projects are available at [http://snhcoding.me/Portfolio](http://snhcoding.me/Portfolio/index.html)
+<!-- - 👨‍💻 All of my projects are available at [http://snhcoding.me/Portfolio](http://snhcoding.me/Portfolio/index.html)-->
 
 - 💬 Ask me about **App Development**
 
