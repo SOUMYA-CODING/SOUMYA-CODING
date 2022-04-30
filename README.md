@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Flutter and Django**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help for **Backend Development**
 
-- 👨‍💻 All of my projects are available at [www.snhcoding.me/Portfolio/](www.snhcoding.me/Portfolio/)
+- 👨‍💻 All of my projects are available at [http://snhcoding.me/Portfolio](http://snhcoding.me/Portfolio/index.html)
 
 - 💬 Ask me about **App Development**
 
