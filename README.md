@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Soumya Prakash Sahu
-- 👀 I’m interested in App Devlopment (using java, kotlin, flutter)
-- 🌱 I’m currently learning kotlin for app devlopment
+- 👀 I’m interested in App Devlopment (kotlin, flutter)
+- 🌱 I’m currently learning Djanjo for creating REST API, which will help me developing backend for my APP.
 - 😀 Portfolio : http://snhcoding.me/Portfolio/
