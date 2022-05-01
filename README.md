@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/SNH-CODING/Portfolio/blob/main/Soumya%20prakash%20sahu.png)
+![MasterHead](https://github.com/SNH-CODING/Portfolio/blob/main/Soumya%20Linkedin.png)
 
 <h1 align="center">Hi 👋, I'm Soumya Prakash Sahu</h1>
 <h3 align="center">A passionate app developer from India</h3>
