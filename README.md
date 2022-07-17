@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Flutter, Django**
 
-- 👨‍💻 All of my projects are available at [https://samcoding.netlify.app/](https://samcoding.netlify.app/)
+- 👨‍💻 All of my projects are available at [SAM CODING.](https://samcoding.netlify.app/)
 
 - 💬 Ask me about **Full Dtack Development || App Development**
 
 - 📫 How to reach me **soumyaprakashsahu2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19qY_x3k_c3bSmdEfViQYVtLjA0noPiT_/view?usp=sharing](https://drive.google.com/file/d/19qY_x3k_c3bSmdEfViQYVtLjA0noPiT_/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/19qY_x3k_c3bSmdEfViQYVtLjA0noPiT_/view?usp=sharing)
 
 - ⚡ Fun fact **I am a happy person**
 
