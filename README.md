@@ -1,11 +1,11 @@
-![MasterHead](https://raw.githubusercontent.com/SNH-CODING/Portfolio/main/assets/soumya%20prakash%20sahu.png)
+![MasterHead](https://github.com/SNH-CODING/Personal-Portfolio/blob/main/public/assets/profile/banner.png)
 ### <div align="center">Hello 👋, I am Soumya Prakash Sahu </div>  
 **<div align="center">Full Stack Web and Android App Developer</div>**  
   
 - 💻 All my projects are available at [SNH-CODING](https://github.com/SNH-CODING)  
 - ❓ Ask me about anything related to Full Stack Development and Android App Development  
 - 📫 How to reach me soumyaprakashsahu2001@gmail.com  
-- 🌐 Know more about me [Portfolio](https://samcoding.netlify.app/)  
+- 🌐 Know more about me [Portfolio](http://soumyasahu.vercel.app/)  
 - ⚡Fun fact i am a happy person  
 <br/>  
 
