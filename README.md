@@ -5,7 +5,7 @@
 - 💻 All my projects are available at [SNH-CODING](https://github.com/SNH-CODING)  
 - ❓ Ask me about anything related to Full Stack Development and Android App Development  
 - 📫 How to reach me soumyaprakashsahu2001@gmail.com  
-- 🌐 Know more about me [Portfolio](http://soumyasahu.vercel.app/)  
+- 🌐 Know more about me [Portfolio](https://soumyasahu.live/)  
 - ⚡Fun fact i am a happy person  
 <br/>  
 
