@@ -2,7 +2,7 @@
 ### <div align="center">Hello 👋, I am Soumya Prakash Sahu </div>  
 **<div align="center">Full Stack Web and Android App Developer</div>**  
   
-- 💻 All my projects are available at [SNH-CODING](https://github.com/SNH-CODING)  
+- 💻 All my projects are available at [SOUMYA-CODING](https://github.com/SOUMYA-CODING)  
 - ❓ Ask me about anything related to Full Stack Development and Android App Development  
 - 📫 How to reach me soumyaprakashsahu2001@gmail.com  
 - 🌐 Know more about me [Portfolio](https://soumyasahu.live/)  
