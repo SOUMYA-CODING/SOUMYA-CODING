@@ -23,7 +23,7 @@
 
 ## Connect with me  
 <div align="left">
-<a href="https://github.com/SNH-CODING" target="_blank">
+<a href="https://github.com/SOUMYA-CODING" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/soumyap24717773" target="_blank">
@@ -41,9 +41,9 @@
 
 ## Github Stats  
 <div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snh-coding&show_icons=true&locale=en&layout=compact" alt="snh-coding" />  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=snh-coding&show_icons=true&locale=en" alt="snh-coding" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=snh-coding&" alt="snh-coding" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SOUMYA-CODING&show_icons=true&locale=en&layout=compact" alt="SOUMYA-CODING" />  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SOUMYA-CODING&show_icons=true&locale=en" alt="SOUMYA-CODING" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SOUMYA-CODING&" alt="SOUMYA-CODING" />
 </div> 
 
 <br>  
