@@ -1,4 +1,4 @@
-![](https://github.com/SOUMYA-CODING/SOUMYA-CODING/blob/dad181ca8b4cb207e10e4f1916ae5a6035064d22/Soumya%20prakas%20sahu.png)
+![MasterHead](./SoumyaPrakashSahu.png)
 
 <h1 align="center">Hello 👋, I am Soumya Prakash Sahu</h1>
 <h3 align="center">Software Developer</h3>
