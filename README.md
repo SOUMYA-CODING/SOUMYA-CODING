@@ -1,9 +1,6 @@
 <div align="center">
-  <strong><p>Hello 👋, I am Soumya Prakash Sahu</p></strong>
-  <p>Full Stack Web Developer & App Developer</p>
+  <strong><h1>Hello 👋, I am Soumya Prakash Sahu</h1></strong>
 </div>
-
-<hr>
 
 🔭 I’m currently working on Flutter and Next.js<br>🌱 I’m currently learning SwiftUI<br>💬 Ask me about anything related to Full Stack Development and App Development<br>📫 How to reach me soumyaprakashsahu2001@gmail.com<br>🌐 Know more about me [Portfolio](https://soumyasahu.live/)
 
