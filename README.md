@@ -5,7 +5,7 @@
 
 <hr>
 
-🔭 I’m currently working on Flutter and Next.js<br>🌱 I’m currently learning SwiftUI<br>💬 Ask me about anything related to Full Stack Development and Android App Development<br>📫 How to reach me soumyaprakashsahu2001@gmail.com<br>🌐 Know more about me [Portfolio](https://soumyasahu.live/)
+🔭 I’m currently working on Flutter and Next.js<br>🌱 I’m currently learning SwiftUI<br>💬 Ask me about anything related to Full Stack Development and App Development<br>📫 How to reach me soumyaprakashsahu2001@gmail.com<br>🌐 Know more about me [Portfolio](https://soumyasahu.live/)
 
 ## 🌐 Socials
 
