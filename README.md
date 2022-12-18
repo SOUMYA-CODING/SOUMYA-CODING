@@ -1,5 +1,3 @@
-![MasterHead](./SoumyaPrakashSahu.png)
-
 <h1 align="center">Hello 👋, I am Soumya Prakash Sahu</h1>
 <h3 align="center">Software Developer</h3>
 
