@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Soumya Prakash Sahu</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Mobile Application Developer & Full Stack Web Developer</h3>
 
 <p align="center">
     <a href="https://soumyasahu.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" style="vertical-align:center" /></a>
